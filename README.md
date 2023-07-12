@@ -6,7 +6,16 @@ it attempts to reanalysis the following two papers https://pubmed.ncbi.nlm.nih.g
 with the main forcus being on REPRODUCABILITY and other valuable software practices (versioning, code collaboration, documentationm etc.)
 
 
-# Below is the software stack planed to be used as of right now:
+# Software tools:
   - Nextflow: Data pipeline management on DSLv2
   - Docker: containerization
   - Git: version control
+
+
+# Notes
+pubmed: To see the full text of a paper click on one of the "Full text links" on the rigth of the title
+
+intron vs exon: exons are conserved in the process of creating mature mRNA while introns are removed during RNA splicing
+
+chromosomal location of SF3B1 gene: 3p21.1 (Cytogenetic location), 
+format {chromosome}{arm}{region}{band}                              
